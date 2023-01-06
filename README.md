@@ -16,7 +16,7 @@ sudo apt update && sudo apt install ansible unzip git -y
 ```
 2. Clone this repository
 ```bash
-git clone https://github.com/sdtps/my_workstation
+git clone https://github.com/Sdtps/my_workstation
 ```
 
 3. Apply the configuration
